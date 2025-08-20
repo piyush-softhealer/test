@@ -1,3 +1,1 @@
-# test
-FOR TESTING123
-fff
+for run index.py install python then run python index.py
